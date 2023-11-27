@@ -30,7 +30,7 @@ This project implements various machine learning models for Intrusion Detection 
   - Description: This notebook contains the implementation of a Logistic Regression model for intrusion detection.
 
 - **K-Nearest Neighbors (KNN)**
-  - Implementation: [KNN.ipynb](./KNN%20CICIDS%202017.ipynb))
+  - Implementation: [KNN.ipynb](./KNN%20CICIDS%202017.ipynb)
   - Description: This notebook implements the K-Nearest Neighbors algorithm for intrusion detection.
 
 ## Dataset
