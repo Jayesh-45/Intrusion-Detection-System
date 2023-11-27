@@ -35,5 +35,5 @@ This project implements various machine learning models for Intrusion Detection 
 
 ## Dataset
 
-The models are trained and evaluated on the CICIDS2017 dataset. You can download the dataset from [here](link_to_dataset).
+The models are trained and evaluated on the CICIDS2017 dataset. You can download the dataset from [here](https://www.unb.ca/cic/datasets/ids-2017.html).
 
